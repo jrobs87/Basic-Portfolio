@@ -1,0 +1,50 @@
+body {
+    color: red;
+}
+
+header {
+    background: black;
+    color: white;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#logo {
+    
+}
+
+#nav {
+    width: 960px;
+    background: green;
+}
+
+.navLink {
+    display: inline;
+}
+
+#menu {
+    background: blue;
+    width: 600px;
+}
+
+section {
+    padding: 30px;
+    background: grey;
+    width: 900px;
+    margin: auto;
+    height: 500px;
+    border-radius: 10px;
+}
+
+#aboutMe {}
+
+#profileIMG {
+    width: 400px;
+    float: left;
+}
+
+#aboutMeProfile {
+    padding-left: 30px;
+}
+
+footer {}
